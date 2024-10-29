@@ -1,0 +1,7 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1001,,3,"Braund, Mr. Owen Harris",male,22.0,1,0,A/5 21171,7.25,,S
+1002,,3,"Doe, Mr. John",male,30.0,0,0,123456,15.5,,S
+1003,,2,"Smith, Mrs. Jane",female,28.0,1,0,654321,12.75,,C
+1004,,1,"Brown, Miss. Emily",female,22.0,0,0,789012,35.5,,S
+1005,,3,"Johnson, Mr. Michael",male,45.0,0,0,345678,8.05,,Q
+1006,,2,"Williams, Mrs. Sarah",female,32.0,1,1,987654,23.0,,S
